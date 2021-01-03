@@ -26,7 +26,7 @@
     - 모델 작성시 케라스를 활용하여 모델을 만들 때 어떤 것을 종속변수로 잡을지 독립변수로 잡을지 결정하기가 쉽지 않겠다라고 느꼈다.
 
 
-![머신야학 수료증](C:\Users\KimDongYeong\Desktop\취업\머신야학.jpg)
+![머신야학 수료증](https://github.com/dongy094/ETC/blob/master/Machine%20Learning(%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9)/%EB%A8%B8%EC%8B%A0%EC%95%BC%ED%95%99.JPG?raw=true)
 
 
 
