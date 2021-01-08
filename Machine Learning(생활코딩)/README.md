@@ -20,6 +20,7 @@ boston_inV = boston_data[['crim', 'zn', 'indus', 'chas', 'nox', 'rm', 'age', 'di
 boston_deV = boston_data[['medv']]     //종속변수 
 ```
 <br/>
+
     2. 모델의 구조를 작성한다.
 
 ```python
@@ -38,6 +39,7 @@ model = tf.keras.models.Model(X,Y)
 model.compile(loss='mse')
 ```
 <br/>
+
     3. 데이터로 모델을 학습(FIT)시킨다.
 
 ```python
