@@ -15,7 +15,7 @@ ___
 
 ### 🔘 프로젝트 구현
 
-|<img src="url입력">
+|<img src="https://github.com/dongy094/ETC/blob/master/parsing_python/file/run.gif?raw=true">
 
 
 ### 🔘 마무리
